@@ -1,2 +1,3 @@
-## Splitwise-app
+# Splitwise-app
 
+### Built-with
