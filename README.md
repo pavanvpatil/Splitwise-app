@@ -1,5 +1,5 @@
 # [Splitwise-app]
-<img src="Images/image.png" alt="image" height="40%" width="80%">
+<img src="Images/image.png" alt="image" height="40%" width="80%" style="border: 2px solid white ">
 
 ### [Built-with]
 C-language
@@ -15,6 +15,6 @@ Once installation is completed, compile the source file that is Splitwise.c and 
 3) Delete group
 4) Exit <br>
 
-Choose the options accordingly and get started with splitwise app
+Choose the options accordingly and get started with splitwise app.
 
 Splitwise app helps to manage transactions between group members, which will be easy to handle.
