@@ -1,5 +1,2 @@
-# Splitwise-app
+## Splitwise-app
 
-_hello_
-
-**cool**
