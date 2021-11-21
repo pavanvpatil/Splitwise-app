@@ -1,5 +1,5 @@
 # [Splitwise-app]
-<img src="Images/image.png" alt="image" height="40%" width="80%" style="border: 2px solid white ">
+<img src="Images/image.png" alt="image" height="40%" width="80%" style="border: 2px solid white">
 
 ### [Built-with]
 C-language
